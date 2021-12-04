@@ -1,0 +1,24 @@
+To Control the switching interface using Google Firebase & NodeMCU ESP8266, you need to setup the Google Firebase first. The step is little, long but don’t be panic, because I have explained all the steps below.
+Step 1: If you have Gmail id then you are already Sign Up for firebase. But if you don’t have Gmail id then first Sign Up for Gmail: https://gmail.com/
+Step 2: Now visit https://firebase.google.com/ and click on Go to Console on the Top Right.
+Step 3: Click on “Create a Project”.
+Step 4: Give your “Project name”, then tick the “I Accept the Firebase Terms” & finally Click on “Continue”.
+Step 5: Now, another window will appear. So, click on “Continue”.
+Step 6: Select the “google Analytics Account” that is made using the Gmail ID. And then click on “Create Project”.
+Step 7: Your project is ready now. So, you will get the following window. Click on “Continue”.
+Step 8: Now click on “Project Setting”.
+Step 9: Under Project Setting, Click on “Service Accounts”. Copy the secret key from below. The code is required in the Arduino Code.
+Step 10: Click on “Create Database”.
+Step 11: Choose “Start in Test Mode” and then click on “Next”.
+Step 12: Now click on “Done” & from left side click on “Database”.
+Step 13: Select the “Realtime Database” option from the Database List.
+Step 14: Now your final project is ready. You can modify the “ON/OFF” line from the list.
+Step 15: Copy the “secret key” & “Project name “. This are required in the Arduino code. The Project name looks something like this “https://your_project_name.firebaseio.com/”
+
+
+
+
+
+
+
+
