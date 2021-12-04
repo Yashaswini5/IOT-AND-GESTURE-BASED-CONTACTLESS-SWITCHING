@@ -1,3 +1,6 @@
+#access switching interface using apds9960 gesture module
+#interfacing arduino uno with apds9960
+
 #include <SoftwareSerial.h>
 #include <Wire.h>
 #include <SparkFun_APDS9960.h>
